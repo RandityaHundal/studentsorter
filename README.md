@@ -1,1 +1,1 @@
-"# studentsorter" 
+a cmd application built for teachers that takes in the # of students in a class, then takes in the names of the student and it returns it alphabetically sorted for organizing/ease of use in other programs.
